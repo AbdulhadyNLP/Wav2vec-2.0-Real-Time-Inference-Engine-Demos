@@ -3,9 +3,9 @@ demo VAD real time python microphone project install library requirement:
 
 
 step install pyaudio from ubuntu 20.4
-First we need to install portaudio modules: sudo apt-get install libasound-dev
+    First we need to install portaudio modules: sudo apt-get install libasound-dev
 
-  Download the portaudio archive from: http://files.portaudio.com/download.html
+    Download the portaudio archive from: http://files.portaudio.com/download.html
 
     Unzip the archive: tar -zxvf [portaudio.tgz]
 
